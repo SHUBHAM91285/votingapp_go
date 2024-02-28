@@ -9,7 +9,7 @@ voting app functionalities
 1. user sign in/sign up
 2. see the list of candidates
 3. vote one of the candidates
-4. there is a route which shows the list of candidates and their live vote counts sorted by their vote count
+4. there is a route which shows the list of candidates and get the vote count of a particular candidate
 5. user data must contain their one unique government id proof named: aadhar card number
 6. there should be one admin who can only maintain the the table of candidates and cann't be able to vote at all
 7. user can change their password.
